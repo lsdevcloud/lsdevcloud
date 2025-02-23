@@ -20,8 +20,11 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
+
 ##### Total profile views:
 ![Profile Views](https://count.getloli.com/@lsdevcloud?theme=booru-lewd&scale=2)
+<hr>
+### other random stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsdevcloud&show_icons=true&theme=radical)
 
