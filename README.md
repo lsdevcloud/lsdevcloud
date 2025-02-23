@@ -23,8 +23,8 @@
 
 ##### Total profile views:
 ![Profile Views](https://count.getloli.com/@lsdevcloud?theme=booru-lewd&scale=2)
-<hr/>
-### other random stats
+
+other random stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsdevcloud&show_icons=true&theme=radical)
 
